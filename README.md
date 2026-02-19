@@ -24,3 +24,5 @@ This project provides interactive visual analytics on UEFA Champions League matc
 - Top-performing teams by season
 - Player scoring trends
 - Defensive vs attacking performance patterns
+
+![Project Demo](Dashboard.png)
